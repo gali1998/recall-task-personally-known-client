@@ -1,0 +1,9 @@
+.cell-style {
+    height: 50px;
+    border-color: black;
+}
+
+.cell-header {
+    background-color:darkgray !important;
+    color: white !important;
+}
