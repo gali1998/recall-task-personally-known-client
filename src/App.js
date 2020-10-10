@@ -16,7 +16,7 @@ class App extends Component {
   }
 
   handleClick(id){
-    let dur = 3600000 / (60)
+    let dur = 3600000
     this.setState({showId: false, showSpreadsheet: true, id: id, startTime: new Date()});
     this.props.setTimeout(this.endExperiment,  dur);
     // one hour is 3600000 milliseconds
