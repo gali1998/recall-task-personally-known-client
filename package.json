@@ -13,6 +13,7 @@
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
+    "loadash": "^1.0.0",
     "path": "^0.12.7",
     "react": "^16.13.1",
     "react-datasheet": "^1.4.8",
@@ -43,7 +44,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "server.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
